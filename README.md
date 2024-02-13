@@ -1,6 +1,6 @@
 # Realtime Boston Bus Tracking
 ## Bus tracking Exercise 
-<img src= "./images/blue.png" width='300'/>   
+<img src= "./images/blue.png" width='30'/>   
 
 ###Brief Description   
 This exercise tracks in realtime the #1 bus in Boston.    
